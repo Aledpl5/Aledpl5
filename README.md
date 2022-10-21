@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Aledpl5
+- 👀 I’m interested in coding (applications) and basketball
+- 🌱 I’m currently learning PHP, C++, C, C#
+- 📫 How to reach me 
+- alessandrodecarli@outlook.it
+- decarlialessandro2004@gmail.com
+- decarli.alessandro04@icloud.com
