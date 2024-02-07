@@ -1,5 +1,6 @@
 - 👋 Hi you all, I’m @Aledpl5
 - 👀 I’m interested in coding applications and basketball
+- 📖 Studying at Univerisity of Verona
 - 🌱 I’m currently learning PHP, Python, C
 - 📫 How to reach me 
     - alessandrodecarli@outlook.it
