@@ -1,7 +1,7 @@
 - 👋 Hi you all, I’m @Aledpl5
 - 👀 I’m interested in coding applications and basketball
 - 📖 Studying at Univerisity of Verona
-- 🌱 I’m currently learning PHP, Python, C
+- 🌱 I’m currently learning PHP, Python, C and NextJS
 - 📫 How to reach me 
     - alessandrodecarli@outlook.it
     - decarlialessandro2004@gmail.com
