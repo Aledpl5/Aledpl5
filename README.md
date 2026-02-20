@@ -10,4 +10,4 @@ I'm passionate about building applications and bringing ideas to life through co
 * 📫 **How to reach me:** * 📧 [mealessandrodecarli@outlook.it](mailto:mealessandrodecarli@outlook.it)
     * 📧 [decarlialessandro2004@gmail.com](mailto:decarlialessandro2004@gmail.com)
     * 📧 [decarli.alessandro04@icloud.com](mailto:decarli.alessandro04@icloud.com)
-* 🔗 **Profiles:** [StackOverflow Profile]([inserisci-qui-il-tuo-link](https://stackoverflow.com/users/23239553/aledpl5))
+* 🔗 **Profiles:** [StackOverflow Profile](https://stackoverflow.com/users/23239553/aledpl5)
